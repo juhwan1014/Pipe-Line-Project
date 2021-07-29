@@ -1,4 +1,4 @@
-# Pipe-Line-Project
+# Pipe-Line-Project 
 
 This project is an extension of the MIPS Simulator Project, which is a program that convert input files in binary form into multiple-cycle MIPS by referring to the MIPS green sheet. <br />
 The details are briefly described as follows:<br /><br />
